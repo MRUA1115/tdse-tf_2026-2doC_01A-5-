@@ -4,7 +4,7 @@
 ### Integrantes del Grupo
 | Padrón | Apellidos, Nombres |
 | :----- | :--------------------- |
-| 112126 | Coluzzi, Santino Leonel |
+| 112146 | Coluzzi, Santino Leonel |
 | 109894 | Kogan, Tobías Daniel |
 | 112119 | Rúa, Martino Manuel |
 
