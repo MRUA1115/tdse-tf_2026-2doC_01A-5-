@@ -1,5 +1,13 @@
 # FIUBA - Electrónica - Taller de Sistemas Embebidos
 ## Trabajo Final - 2026-2doC - 01A-5: Título del Trabajo Final
+
+### Integrantes del Grupo
+| Padrón | Apellidos, Nombres |
+| :----- | :--------------------- |
+| 112126 | Coluzzi, Santino Leonel |
+| 109894 | Kogan, Tobías Daniel |
+| 112119 | Rúa, Martino Manuel |
+
 ### Bitácora de Entregas
 | N° | Detalles | Fecha | Deadline |
 | :--: | :--------------------- | :------: | :-------: |
