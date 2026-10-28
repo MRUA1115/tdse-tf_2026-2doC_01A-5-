@@ -1,6 +1,5 @@
 # FIUBA - Electrónica - Taller de Sistemas Embebidos
-## Trabajo Final - 2026-2doC - 01A-5: Título del Trabajo Final
-
+## Trabajo Final - 2026-2doC - 01A-5: Sistema de riego inteligente
 ### Integrantes del Grupo
 | Padrón | Apellidos, Nombres |
 | :----- | :--------------------- |
