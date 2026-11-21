@@ -1,4 +1,7 @@
+<img src="https://www.fi.uba.ar/images/logo-fiuba.png" alt="FIUBA" width="50%">
+
 # **Sistema de Riego Inteligente**
+
 ## **Informe de Avances - WBS (Estructura de Desglose del Trabajo)**
 
 **Materia:** Taller de Sistemas Embebidos (TdSE)  
